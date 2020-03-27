@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCAxis.Sdmx", "PCAxis.Sdmx\PCAxis.Sdmx.csproj", "{19E68B6E-8D50-4829-925B-6A407C96410C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E68B6E-8D50-4829-925B-6A407C96410C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E68B6E-8D50-4829-925B-6A407C96410C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E68B6E-8D50-4829-925B-6A407C96410C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E68B6E-8D50-4829-925B-6A407C96410C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6A9502-72BB-4164-AC1A-9D9C3E458EF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6A9502-72BB-4164-AC1A-9D9C3E458EF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6A9502-72BB-4164-AC1A-9D9C3E458EF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6A9502-72BB-4164-AC1A-9D9C3E458EF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80DEA603-2F8F-47B0-A4F5-82B5488C8D7F}
+	EndGlobalSection
+EndGlobal
